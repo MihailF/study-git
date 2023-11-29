@@ -1,5 +1,5 @@
 function hello () {
-    console.warn('Attention!')
+    alert("Hello");
 }
 function helloQ () {
     console.log('Attention!')
