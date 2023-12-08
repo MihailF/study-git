@@ -1,9 +1,12 @@
 function hello () {
-    console.warn('Attention!')
+    alert("Hello");
 }
 function helloQ () {
     console.log('Attention!')
 }
-function helloE () {
+function helloW () {
+    console.log('Attention!')
+}
+function helloR () {
     console.log('Attention!')
 }
