@@ -4,3 +4,6 @@ function hello () {
 function helloQ () {
     console.log('Attention!')
 }
+function helloE () {
+    console.log('Attention!')
+}
