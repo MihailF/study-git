@@ -9,4 +9,5 @@ function helloW () {
 }
 function helloR () {
     console.log('Attention!')
+    console.log('Attentiondddddddd!')
 }
