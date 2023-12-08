@@ -7,3 +7,6 @@ function helloQ () {
 function helloW () {
     console.log('Attention!')
 }
+function helloR () {
+    console.log('Attention!')
+}
